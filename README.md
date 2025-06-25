@@ -1,4 +1,7 @@
 ## Hi there 👋
+I’m a junior undergraduate student at NIT Bhopal, passionate about software development, problem-solving, and building cool tech.
+I love learning new tools, picking up side projects, and adapting to new technologies as fast as I can.
+
 
 <!--
 **Shivanshh27/Shivanshh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
