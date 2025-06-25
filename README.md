@@ -4,7 +4,8 @@
 **Shivanshh27/Shivanshh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I’m a junior undergraduate Electrical Engineering student at NIT Bhopal, passionate about software development, problem-solving, and building cool tech.
+I love learning new tools, picking up side projects, and adapting to new technologies as fast as I can.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
